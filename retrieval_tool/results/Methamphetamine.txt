@@ -1,0 +1,2 @@
+Rank ID Cosine_Similarity Relevant
+29 36015 0.048260054966027366 0
