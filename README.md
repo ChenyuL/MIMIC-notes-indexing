@@ -18,4 +18,15 @@ Extracting SDoH information from EHR - MIMIC iii database
 3. Created UI of the retrieval tool 
 
 
-
+## Code Structred 
+to run the boolean retriever 
+```
+python retrieval_tool/boolean_retriever.py
+```
+you can get cohort text using  ```boolean_retriever.get_text()```
+and get structured data using ```boolean_retriever.get_structure()``` 
+example result see ![](sample_result.jpeg)
+to run the retriever UI 
+```
+python retrieval_tool/Retriever.py 
+```
