@@ -25,7 +25,7 @@ python retrieval_tool/boolean_retriever.py
 ```
 you can get cohort text using  ```boolean_retriever.get_text()```
 and get structured data using ```boolean_retriever.get_structure()``` 
-example result see ![](sample result.jpg)
+example result see ![](exmple_result.jpg)
 to run the retriever UI 
 ```
 python retrieval_tool/Retriever.py 
